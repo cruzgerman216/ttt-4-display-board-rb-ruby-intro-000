@@ -6,7 +6,7 @@ def display_board(arr)
   puts " #{arr[3]} | #{arr[4]} | #{arr[5]} "
   puts "-----------"
   puts " #{arr[6]} | #{arr[7]} | #{arr[8]} "
-  
-end 
+
+end
 
 display_board([" " , " ", " ", " ", " ", " ", " ", " ", " "])
